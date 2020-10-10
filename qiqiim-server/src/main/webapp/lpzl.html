@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>青分销服</title>
+    <link rel="stylesheet" href="layui/css/modules/layim/mobile/layim.css?v=2.10">
+    <link rel="stylesheet" href="layui/css/layui.mobile.css">
+    <link rel="stylesheet" href="layui/css/layui.css" media="all">
+
+    <style>
+        .text_title {
+            font-size: larger;
+            font-weight: bolder;
+        }
+
+        .text_content {
+            text-indent: 2em;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+
+        .layui-colla-title {
+
+            color: #ffffff;
+            background-color: #009688;
+
+        }
+
+    </style>
+
+</head>
+<body class="layui-layout-body">
+
+
+<div class="layui-layout layui-layout-admin">
+    <div class="layim-title" style="background-color: #f74c31;"><p>
+
+        <i class="layui-icon " onclick="back()"></i><span
+            class="layim-chat-status"></span>
+
+        <!--        <i class="layui-icon layui-icon-more-vertical"-->
+        <!--                                                 onclick="info()"-->
+        <!--                                                 style="color: white;font-size: 25px;float: right"></i>-->
+        理赔所需资料
+    </p></div>
+
+
+    <div class="layim-content">
+
+
+        <div class="layui-collapse" lay-accordion="">
+            <div class="layui-colla-item">
+                <h2 class="layui-colla-title layui-bg-green">理赔所需资料-津贴型</h2>
+                <div class="layui-colla-content layui-show">
+
+                    <blockquote class="layui-elem-quote">津贴型代表险种：世纪泰康个人住院医疗、吉祥津贴、全能宝贝津贴、全心全意津贴、健保通津贴等。</blockquote>
+
+
+                    <div class="layui-field-box">
+                        <p class="text_title">1、被保险人为成年人且生存：</p>
+                        <div class="text_content">
+                            理赔申请书、被保险人有效身份证及借记卡（须确保账户姓名与有效身份效证件姓名一致）、代办人身份证、带有医院签章的出院记录、申请人与投保人关系证明。
+                        </div>
+                        <p class="text_title">2、被保险人为未成年人且生存：</p>
+                        <div class="text_content">
+                            理赔申请书、被保险人身份证件（出生证明或户口簿或身份证）、监护人身份证件（身份证）及借记卡（须确保账户姓名与有效身份效证件姓名一致）、带有医院签章的出院记录、申请人与投保人关系证明、申请人与被保险人关系证明，代办人身份证明。
+                        </div>
+                        <p class="text_title">3、被保险人已身故：</p>
+                        <div class="text_content">补充医学死亡证明/火化证明、户口注销证明，法定受益人确认表、受益人约定书。</div>
+                    </div>
+
+
+                </div>
+            </div>
+
+
+            <div class="layui-colla-item">
+                <h2 class="layui-colla-title layui-bg-green">理赔所需资料-费用型</h2>
+                <div class="layui-colla-content ">
+
+                    <blockquote class="layui-elem-quote">费用型代表险种：尊享A/B/C、健康无忧/优享、附加少儿住院费用补偿、意外/如意宝意外伤害医疗、贴心保等。
+                    </blockquote>
+
+
+                    <div class="layui-field-box">
+                        <p class="text_title">1、被保险人为成年人且生存：</p>
+                        <div class="text_content">
+                            理赔申请书、被保险人有效身份证及借记卡（须确保账户姓名与有效身份效证件姓名一致）、代办人身份证、发票、费用总清单、医保结算表、带有医院签章的出院记录、申请人与投保人关系证明。
+                        </div>
+                        <p class="text_title">2、被保险人为未成年人且生存：</p>
+                        <div class="text_content">
+                            理赔申请书、被保险人身份证件（出生证明或户口簿或身份证）、监护人身份证件（身份证）及借记卡（须确保账户姓名与有效身份效证件姓名一致）、发票、费用总清单、医保结算表、带有医院签章的出院记录、申请人与投保人关系证明、申请人与被保险人关系证明，代办人身份证明。
+                        </div>
+                        <p class="text_title">3、被保险人已身故：</p>
+                        <div class="text_content">补充医学死亡证明/火化证明、户口注销证明，法定受益人确认表、受益人约定书。</div>
+                    </div>
+
+
+                </div>
+            </div>
+
+
+            <div class="layui-colla-item">
+                <h2 class="layui-colla-title layui-bg-green">理赔所需资料-重疾型</h2>
+                <div class="layui-colla-content ">
+
+                    <blockquote class="layui-elem-quote">重疾型代表险种：全能保重疾、健康百分百重疾、安享人生重疾、卓越人生提前给付重疾。</blockquote>
+
+
+                    <div class="layui-field-box">
+                        <p class="text_title">1、被保险人为成年人且生存：</p>
+                        <div class="text_content">
+                            理赔申请书、被保险人有效身份证及借记卡（须确保账户姓名与有效身份效证件姓名一致）、代办人身份证、诊断证明及其他重疾确诊报告单、申请人与投保人关系证明。
+                        </div>
+                        <p class="text_title">2、被保险人为未成年人且生存：</p>
+                        <div class="text_content">
+                            理赔申请书、被保险人身份证件（出生证明或户口簿或身份证）、监护人身份证件（身份证）及借记卡（须确保账户姓名与有效身份效证件姓名一致）、诊断证明及其他重疾确诊报告单、申请人与投保人关系证明、申请人与被保险人关系证明，代办人身份证明。
+                        </div>
+                        <p class="text_title">3、被保险人已身故：</p>
+                        <div class="text_content">补充医学死亡证明/火化证明、户口注销证明，法定受益人确认表、受益人约定书。</div>
+                    </div>
+
+
+                </div>
+            </div>
+
+
+            <div class="layui-colla-item">
+                <h2 class="layui-colla-title layui-bg-green">理赔所需资料-身故型1</h2>
+                <div class="layui-colla-content ">
+
+                    <blockquote class="layui-elem-quote">身故型代表险种：全能保、健康百分百、安享人生、卓越人生、吉祥相伴定期、爱相随定期等。</blockquote>
+
+
+                    <div class="layui-field-box">
+                        <p class="text_title">1、指定身故受益人为成年人且生存：</p>
+                        <div class="text_content">
+                            理赔申请书、申请人有效身份证及借记卡（须确保账户姓名与有效身份效证件姓名一致）、代办人身份证、被保险人身份证件（视情况而定）、被保险人医学死亡证明/火化证明、户口注销证明，申请人与投保人关系证明、申请人与被保险人关系证明。
+                        </div>
+                        <p class="text_title">2、指定身故受益人为未成年人且生存：</p>
+                        <div class="text_content">
+                            理赔申请书、监护人身份证件（身份证）及借记卡（须确保账户姓名与有效身份效证件姓名一致）、代办人身份证、被保险人身份证件（出生证明或户口簿或身份证等视情况而定）、被保险人医学死亡证明/火化证明、户口注销证明，申请人与投保人关系证明，申请人与被保险人关系证明。
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+
+
+            <div class="layui-colla-item">
+                <h2 class="layui-colla-title layui-bg-green">理赔所需资料-身故型2</h2>
+                <div class="layui-colla-content ">
+
+                    <blockquote class="layui-elem-quote">身故型代表险种：全能保、健康百分百、安享人生、卓越人生、吉祥相伴定期、爱相随定期等。</blockquote>
+
+
+                    <div class="layui-field-box">
+                        <p class="text_title">1、未指定受益人：</p>
+                        <div class="text_content">
+                            理赔申请书、申请人有效身份证及借记卡（须确保账户姓名与有效身份效证件姓名一致）、代办人身份证、被保险人身份证件（视情况而定）、被保险人医学死亡证明/火化证明、户口注销证明，申请人与投保人关系证明、申请人与被保险人关系证明，法定受益人确认表、受益人约定书。
+                        </div>
+                        <p class="text_title">2、受益人已死亡：</p>
+                        <div class="text_content">
+                            理赔申请书、申请人有效身份证及借记卡（须确保账户姓名与有效身份效证件姓名一致）、代办人身份证、被保险人身份证件（视情况而定）、被保险人以及受益人的医学死亡证明/火化证明、户口注销证明，申请人与投保人关系证明、申请人与被保险人关系证明，法定受益人确认表、受益人约定书。
+                        </div>
+
+                    </div>
+
+
+                </div>
+            </div>
+
+
+        </div>
+
+    </div>
+</div>
+<script src="layui/layui.js"></script>
+<script src="layui/jquery.min.js"></script>
+<script>
+
+    //注意：折叠面板 依赖 element 模块，否则无法进行功能性操作
+    layui.use(['layer','element'], function () {
+        var element = layui.element;
+        var layer = layui.layer
+        //…
+
+        var loading = layer.load(0, {
+            shade: false,
+            time: 1000
+        });
+    });
+
+    function back() {
+        window.history.back(-1);
+    }
+
+</script>
+</body>
+</html>
+

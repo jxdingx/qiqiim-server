@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: asm:asm:1.5.3">
+    <archive path="D:/idea/repository/asm/asm/1.5.3/asm-1.5.3.jar" />
+  </library>
+  <library name="Maven: cglib:cglib:2.1_3">
+    <archive path="D:/idea/repository/cglib/cglib/2.1_3/cglib-2.1_3.jar" />
+  </library>
+  <library name="Maven: com.alibaba:druid:1.0.31">
+    <archive path="D:/idea/repository/com/alibaba/druid/1.0.31/druid-1.0.31.jar" />
+  </library>
+  <library name="Maven: com.alibaba:fastjson:1.2.30">
+    <archive path="D:/idea/repository/com/alibaba/fastjson/1.2.30/fastjson-1.2.30.jar" />
+  </library>
+  <library name="Maven: com.alibaba:simpleimage:1.2.3">
+    <archive path="D:/idea/repository/com/alibaba/simpleimage/1.2.3/simpleimage-1.2.3.jar" />
+  </library>
+  <library name="Maven: com.github.penggle:kaptcha:2.3.2">
+    <archive path="D:/idea/repository/com/github/penggle/kaptcha/2.3.2/kaptcha-2.3.2.jar" />
+  </library>
+  <library name="Maven: com.google.protobuf:protobuf-java:3.4.0">
+    <archive path="D:/idea/repository/com/google/protobuf/protobuf-java/3.4.0/protobuf-java-3.4.0.jar" />
+  </library>
+  <library name="Maven: com.googlecode.protobuf-java-format:protobuf-java-format:1.4">
+    <archive path="D:/idea/repository/com/googlecode/protobuf-java-format/protobuf-java-format/1.4/protobuf-java-format-1.4.jar" />
+  </library>
+  <library name="Maven: com.jhlabs:filters:2.0.235-1">
+    <archive path="D:/idea/repository/com/jhlabs/filters/2.0.235-1/filters-2.0.235-1.jar" />
+  </library>
+  <library name="Maven: com.thoughtworks.xstream:xstream:1.3.1">
+    <archive path="D:/idea/repository/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar" />
+  </library>
+  <library name="Maven: commons-cli:commons-cli:1.2">
+    <archive path="D:/idea/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar" />
+  </library>
+  <library name="Maven: commons-codec:commons-codec:1.9">
+    <archive path="D:/idea/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar" />
+  </library>
+  <library name="Maven: commons-collections:commons-collections:3.1">
+    <archive path="D:/idea/repository/commons-collections/commons-collections/3.1/commons-collections-3.1.jar" />
+  </library>
+  <library name="Maven: commons-configuration:commons-configuration:1.10">
+    <archive path="D:/idea/repository/commons-configuration/commons-configuration/1.10/commons-configuration-1.10.jar" />
+  </library>
+  <library name="Maven: commons-fileupload:commons-fileupload:1.3.1">
+    <archive path="D:/idea/repository/commons-fileupload/commons-fileupload/1.3.1/commons-fileupload-1.3.1.jar" />
+  </library>
+  <library name="Maven: commons-httpclient:commons-httpclient:3.1">
+    <archive path="D:/idea/repository/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar" />
+  </library>
+  <library name="Maven: commons-io:commons-io:2.4">
+    <archive path="D:/idea/repository/commons-io/commons-io/2.4/commons-io-2.4.jar" />
+  </library>
+  <library name="Maven: commons-lang:commons-lang:2.4">
+    <archive path="D:/idea/repository/commons-lang/commons-lang/2.4/commons-lang-2.4.jar" />
+  </library>
+  <library name="Maven: commons-logging:commons-logging:1.1.1">
+    <archive path="D:/idea/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
+  </library>
+  <library name="Maven: commons-pool:commons-pool:1.6">
+    <archive path="D:/idea/repository/commons-pool/commons-pool/1.6/commons-pool-1.6.jar" />
+  </library>
+  <library name="Maven: dom4j:dom4j:1.6.1">
+    <archive path="D:/idea/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" />
+  </library>
+  <library name="Maven: eu.bitwalker:UserAgentUtils:1.20">
+    <archive path="D:/idea/repository/eu/bitwalker/UserAgentUtils/1.20/UserAgentUtils-1.20.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-all:4.1.6.Final">
+    <archive path="D:/idea/repository/io/netty/netty-all/4.1.6.Final/netty-all-4.1.6.Final.jar" />
+  </library>
+  <library name="Maven: javax.servlet:javax.servlet-api:3.0.1">
+    <archive path="D:/idea/repository/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar" />
+  </library>
+  <library name="Maven: javax.servlet.jsp:jsp-api:2.1">
+    <archive path="D:/idea/repository/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar" />
+  </library>
+  <library name="Maven: junit:junit:3.8.1">
+    <archive path="D:/idea/repository/junit/junit/3.8.1/junit-3.8.1.jar" />
+  </library>
+  <library name="Maven: log4j:log4j:1.2.17">
+    <archive path="D:/idea/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar" />
+  </library>
+  <library name="Maven: mysql:mysql-connector-java:8.0.21">
+    <archive path="D:/idea/repository/mysql/mysql-connector-java/8.0.21/mysql-connector-java-8.0.21.jar" />
+  </library>
+  <library name="Maven: net.coobird:thumbnailator:0.4.8">
+    <archive path="D:/idea/repository/net/coobird/thumbnailator/0.4.8/thumbnailator-0.4.8.jar" />
+  </library>
+  <library name="Maven: org.apache.geronimo.bundles:jstl:1.2_1">
+    <archive path="D:/idea/repository/org/apache/geronimo/bundles/jstl/1.2_1/jstl-1.2_1.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpclient:4.3.6">
+    <archive path="D:/idea/repository/org/apache/httpcomponents/httpclient/4.3.6/httpclient-4.3.6.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpcore:4.3.3">
+    <archive path="D:/idea/repository/org/apache/httpcomponents/httpcore/4.3.3/httpcore-4.3.3.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpmime:4.3.6">
+    <archive path="D:/idea/repository/org/apache/httpcomponents/httpmime/4.3.6/httpmime-4.3.6.jar" />
+  </library>
+  <library name="Maven: org.apache.velocity:velocity:1.7">
+    <archive path="D:/idea/repository/org/apache/velocity/velocity/1.7/velocity-1.7.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlbeans:xmlbeans:2.6.0">
+    <archive path="D:/idea/repository/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar" />
+  </library>
+  <library name="Maven: org.aspectj:aspectjweaver:1.8.9">
+    <archive path="D:/idea/repository/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9.jar" />
+  </library>
+  <library name="Maven: org.directwebremoting:dwr:3.0.2-RELEASE">
+    <archive path="D:/idea/repository/org/directwebremoting/dwr/3.0.2-RELEASE/dwr-3.0.2-RELEASE.jar" />
+  </library>
+  <library name="Maven: org.freemarker:freemarker:2.3.20">
+    <archive path="D:/idea/repository/org/freemarker/freemarker/2.3.20/freemarker-2.3.20.jar" />
+  </library>
+  <library name="Maven: org.jsoup:jsoup:1.7.3">
+    <archive path="D:/idea/repository/org/jsoup/jsoup/1.7.3/jsoup-1.7.3.jar" />
+  </library>
+  <library name="Maven: org.mybatis:mybatis:3.4.1">
+    <archive path="D:/idea/repository/org/mybatis/mybatis/3.4.1/mybatis-3.4.1.jar" />
+  </library>
+  <library name="Maven: org.mybatis:mybatis-spring:1.3.0">
+    <archive path="D:/idea/repository/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.21">
+    <archive path="D:/idea/repository/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-log4j12:1.7.21">
+    <archive path="D:/idea/repository/org/slf4j/slf4j-log4j12/1.7.21/slf4j-log4j12-1.7.21.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-aop:4.3.7.RELEASE">
+    <archive path="D:/idea/repository/org/springframework/spring-aop/4.3.7.RELEASE/spring-aop-4.3.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-aspects:4.3.7.RELEASE">
+    <archive path="D:/idea/repository/org/springframework/spring-aspects/4.3.7.RELEASE/spring-aspects-4.3.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-beans:4.3.7.RELEASE">
+    <archive path="D:/idea/repository/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-context:4.3.7.RELEASE">
+    <archive path="D:/idea/repository/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-context-support:4.3.7.RELEASE">
+    <archive path="D:/idea/repository/org/springframework/spring-context-support/4.3.7.RELEASE/spring-context-support-4.3.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-core:4.3.7.RELEASE">
+    <archive path="D:/idea/repository/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-expression:4.3.7.RELEASE">
+    <archive path="D:/idea/repository/org/springframework/spring-expression/4.3.7.RELEASE/spring-expression-4.3.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-jdbc:4.3.7.RELEASE">
+    <archive path="D:/idea/repository/org/springframework/spring-jdbc/4.3.7.RELEASE/spring-jdbc-4.3.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-messaging:4.3.7.RELEASE">
+    <archive path="D:/idea/repository/org/springframework/spring-messaging/4.3.7.RELEASE/spring-messaging-4.3.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-orm:4.3.7.RELEASE">
+    <archive path="D:/idea/repository/org/springframework/spring-orm/4.3.7.RELEASE/spring-orm-4.3.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-tx:4.3.7.RELEASE">
+    <archive path="D:/idea/repository/org/springframework/spring-tx/4.3.7.RELEASE/spring-tx-4.3.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-web:4.3.7.RELEASE">
+    <archive path="D:/idea/repository/org/springframework/spring-web/4.3.7.RELEASE/spring-web-4.3.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-webmvc:4.3.7.RELEASE">
+    <archive path="D:/idea/repository/org/springframework/spring-webmvc/4.3.7.RELEASE/spring-webmvc-4.3.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-websocket:4.3.7.RELEASE">
+    <archive path="D:/idea/repository/org/springframework/spring-websocket/4.3.7.RELEASE/spring-websocket-4.3.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: stax:stax-api:1.0.1">
+    <archive path="D:/idea/repository/stax/stax-api/1.0.1/stax-api-1.0.1.jar" />
+  </library>
+  <library name="Maven: taglibs:standard:1.1.2">
+    <archive path="D:/idea/repository/taglibs/standard/1.1.2/standard-1.1.2.jar" />
+  </library>
+  <library name="Maven: xml-apis:xml-apis:1.0.b2">
+    <archive path="D:/idea/repository/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" />
+  </library>
+  <library name="Maven: xpp3:xpp3_min:1.1.4c">
+    <archive path="D:/idea/repository/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar" />
+  </library>
+</eclipse-userlibraries>
+
